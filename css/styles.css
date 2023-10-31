@@ -579,7 +579,6 @@ button {
         padding: 8px 24px;
         justify-content: center;
         align-items: center;
-        gap: 16px;
         min-width: 165px;
         color: #FFF;
         background-color: #4D5AE5;
@@ -696,7 +695,6 @@ button {
 
 .modal-input-wrap {
         position: relative;
-        margin-bottom: 16px;
 }
 
 .modal-form {}
